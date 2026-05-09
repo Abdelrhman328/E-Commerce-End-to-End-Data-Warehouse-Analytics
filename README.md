@@ -28,8 +28,7 @@ Moving from historical analysis to future forecasting[cite: 1]:
 
 ## 🖼️ Data Architecture Diagram
 > **Note: Architecture Flow from Source to Gold Layer**
-> ![Architecture Diagram](./images/architecture_diagram.png) 
-> *(Replace with your Draw.io export)*[cite: 1]
+> ![Architecture Diagram](./images/architecture_diagram.png)
 
 ---
 
