@@ -1,6 +1,4 @@
-# E-Commerce-End-to-End-Data-Warehouse-Analytics
-An end-to-end Data Warehouse &amp; Analytics project for the Olist E-commerce dataset. Built on SQL Server using Medallion Architecture (Bronze, Silver, Gold), featuring Star Schema modeling, Exploratory Data Analysis (EDA), and Future Predictive Analytics
-# 🛒 Olist E-Commerce: End-to-End Data Warehouse & Analytics
+# 🛒 E-Commerce: End-to-End Data Warehouse & Analytics
 
 ## 📖 Project Overview
 This project demonstrates a comprehensive data lifecycle for the **Olist E-commerce** dataset. It transitions from raw data engineering to advanced business intelligence and predictive modeling. The core of the project is built on **Microsoft SQL Server**, utilizing the **Medallion Architecture** to ensure data integrity and scalability.
@@ -69,4 +67,4 @@ To ensure professional consistency, the following standards are strictly followe
 
 ---
 **Developed by Abdelrhman Ahmed**  
-*Data Analyst | Junior Data Analyst*[cite: 1]
+*Data Analyst Trainee [cite: 1]
